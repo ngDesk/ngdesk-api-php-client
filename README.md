@@ -24,4 +24,4 @@
 
 ## Questions
 
-Please contact us at support@ngdesk.com or go to ngDesk.com.
+Please contact us at support@ngdesk.com or go to [https://ngDesk.com](http://www.ngdesk.com)
